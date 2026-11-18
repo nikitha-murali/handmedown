@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Illustration of sample sports equipment</title>
+  <rect width="1200" height="900" fill="#eff8f5"/>
+  <circle cx="930" cy="170" r="115" fill="#cdeee2"/>
+  <path d="M600 204 820 282v180c0 164-94 260-220 332-126-72-220-168-220-332V282Z" fill="#ffffff" stroke="#176b58" stroke-width="24" stroke-linejoin="round"/>
+  <path d="m600 280 150 54v130c0 112-56 184-150 244-94-60-150-132-150-244V334Z" fill="#a9dfca"/>
+  <path d="M530 473h140M600 403v140" stroke="#176b58" stroke-width="22" stroke-linecap="round"/>
+  <text x="70" y="95" fill="#176b58" font-family="Arial,sans-serif" font-size="32" font-weight="700" letter-spacing="6">LOCAL PREVIEW</text>
+  <text x="70" y="835" fill="#176b58" font-family="Arial,sans-serif" font-size="28" font-weight="700">ILLUSTRATION — NOT A PRODUCT PHOTO</text>
+</svg>

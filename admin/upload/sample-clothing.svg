@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title">
+  <title id="title">Illustration of sample campus jacket</title>
+  <rect width="1200" height="900" fill="#fff5f4"/>
+  <circle cx="930" cy="170" r="115" fill="#f7d8d5"/>
+  <path d="m410 268 108-70h164l108 70 122 95-86 112-72-50v274H454V425l-72 50-86-112Z" fill="#c9364b" stroke="#8f2638" stroke-width="24" stroke-linejoin="round"/>
+  <path d="m518 198 82 92 82-92m-82 92v409m-104-192h80m128 0h80" fill="none" stroke="#fff5f4" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="615" cy="363" r="8" fill="#fff5f4"/><circle cx="615" cy="425" r="8" fill="#fff5f4"/><circle cx="615" cy="487" r="8" fill="#fff5f4"/>
+  <text x="70" y="95" fill="#8f2638" font-family="Arial,sans-serif" font-size="32" font-weight="700" letter-spacing="6">LOCAL PREVIEW</text>
+  <text x="70" y="835" fill="#8f2638" font-family="Arial,sans-serif" font-size="28" font-weight="700">ILLUSTRATION — NOT A PRODUCT PHOTO</text>
+</svg>
